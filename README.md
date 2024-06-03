@@ -6,7 +6,7 @@ Ele foi projetado para fins educacionais para demonstrar funcionalidades bancár
 
 ## Code dos Mundos 🌎
 
-**Linguagens utilizadas atualmente**
+**Linguagem utilizada no projeto**
 
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white" alt="Badge Python" />
 
